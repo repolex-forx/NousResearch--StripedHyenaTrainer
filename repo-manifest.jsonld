@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/StripedHyenaTrainer/commit/288a526b8e265d4dfc58f6585fb127ba95c763b0",
       "git:hexsha": "288a526b8e265d4dfc58f6585fb127ba95c763b0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-09T16:04:56.137521+00:00"
     }
   ]
 }
