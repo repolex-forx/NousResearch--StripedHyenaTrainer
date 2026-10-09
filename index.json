@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "StripedHyenaTrainer",
+  "versions": [
+    {
+      "commit": "288a526b8e265d4dfc58f6585fb127ba95c763b0",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:04:56.137934+00:00"
+    }
+  ]
+}
