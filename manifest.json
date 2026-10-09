@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "StripedHyenaTrainer",
+  "versions": [
+    {
+      "commit": "288a526b8e265d4dfc58f6585fb127ba95c763b0",
+      "parsed_at": "2026-10-09T13:26:10.042798+00:00",
+      "filetree": "filetree/288a526b8e265d4dfc58f6585fb127ba95c763b0.nq.gz",
+      "blobs": [
+        "blob/6864361eb350014e87bb5ee10e2bdde89df1d32d.nq.gz",
+        "blob/761ca850a8fc9411d82cdd7987a97b9d8825cbf1.nq.gz",
+        "blob/c0879bc80263e85a02587280de1f2418ed3fcaec.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/dcc147f0d7ab417e25b76dde3e4b59bf30e0904e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
